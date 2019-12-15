@@ -1,0 +1,7 @@
+com\niit\controller\UserController.class
+com\niit\controller\JobController.class
+com\niit\controller\FriendController.class
+com\niit\controller\BlogPostController.class
+com\niit\controller\BlogPostLikesController.class
+com\niit\controller\ProfilePictureController.class
+com\niit\controller\NotificationController.class
